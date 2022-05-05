@@ -1,5 +1,5 @@
 # odin-recipes
 
-Hello, this is the readme file for my first real repo as part of The Odin Project.
+This is my first project. It's a simple website to showcase some recipes I think taste great and are healthy.
 
-This will be a simple project to display a few recipes on a website.
+Do give them a chance and feel free to let me know what you think!
